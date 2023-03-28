@@ -1,0 +1,38 @@
+List<Map<String, dynamic>> allQuestion = [
+  {
+    'que': "Who created the C language?",
+    'A': "Albert Einstein",
+    'B': "Dennis Richie",
+    'C': "Newton",
+    'D': "Elon Musk",
+    'ans': 'B',
+    'amount': 1000,
+  },
+  {
+    'que': "Who created the C++ language?",
+    'A': "Albert Einstein",
+    'B': "Dennis Richie",
+    'C': "Bjarne Stroustrup",
+    'D': "Elon Musk",
+    'ans': 'C',
+    'amount': 2000,
+  },
+  {
+    'que': "Who created the Facebook?",
+    'A': "Mark Zuckerberg",
+    'B': "Dennis Richie",
+    'C': "Newton",
+    'D': "Elon Musk",
+    'ans': 'A',
+    'amount': 5000,
+  },
+  {
+    'que': "Who created the Telephone?",
+    'A': "Mark Zuckerberg",
+    'B': "Dennis Richie",
+    'C': "Greham Bell",
+    'D': "Elon Musk",
+    'ans': 'C',
+    'amount': 10000,
+  },
+];
